@@ -3,6 +3,18 @@ automatic scan target and use exploit
 
 use only in your lab for test
 
+Prerequisites
+
+Linux debian
+
+nmap
+metasploit
+
+Install guides
+sudo apt update && sudo apt install nmap metasploit-framework
+
+nmap --version
+msfconsole --version
 
 
 python3 -m venv name
