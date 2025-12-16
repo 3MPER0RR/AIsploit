@@ -1,7 +1,9 @@
 # AIsploit
-automatic scan target and exploit
-
 USE ONLY IN YOUR LAB FOR TEST
+
+Offensive Automation Tool (Beta)
+Web-based automation tool for offensive security operations.
+Runs Nmap scans against a target and maps detected vulnerabilities to suitable Metasploit exploits and payloads.
 
 Prerequisites
 
